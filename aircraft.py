@@ -5,3 +5,5 @@ class Aircraft:
         self.pilot= True
 
 
+
+print("Hello")
